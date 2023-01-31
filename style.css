@@ -1,0 +1,16 @@
+*{
+margin: 0;
+padding: 0;
+}
+ul{
+  margin-left: 400px;
+  list-style: none;
+}
+li{
+  display: inline-block;
+}
+nav{
+margin-top: 71px;
+margin-left: 818px;
+
+}
