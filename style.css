@@ -1,16 +1,27 @@
-*{
-margin: 0;
-padding: 0;
+a:link{
+  font-size: 30px;
+  color: rgb(0, 255, 0);
 }
-ul{
-  margin-left: 400px;
-  list-style: none;
+a:visited{
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 15px;
+  color:rgba(0, 0, 255, 0.588);
 }
-li{
-  display: inline-block;
+ a:hover{
+  font-size: 40px;
+  cursor: pointer;
+  color: rgb(255, 0, 0);
 }
-nav{
-margin-top: 71px;
-margin-left: 818px;
-
+div{
+  border: 1px solid rgb(128, 0, 255);
+  color: red;
+  width: 50%;
+  height: 50%;
+}
+p{
+  font-size: 40px;
+  border: 1px solid rgb(255, 249, 141);
+  width: 10%;
+  height: 10%;
 }
